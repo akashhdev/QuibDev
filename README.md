@@ -6,10 +6,10 @@
 ## I'm a quirky individual, who likes making quirky stuff!
 
 - 🔭 I just created my own discord bot: [Aeri][discordbot]!
-- 🌱 I’m currently learning NodeJs and React.
-- 👯 I’m looking to collaborate with other
+- 🌱 I’m currently learning NodeJs and React!
+- 👯 I’m looking to collaborate with others!
 - 🥅 future Goals: create my own messaging app!
-- ⚡ hobbies : I love to sketch and animate.
+- ⚡ hobbies : I love to sketch and animate!
 
 ### Connect with me:
 
